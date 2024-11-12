@@ -1,5 +1,5 @@
 
-<h2 style="text-align:center;"> Hi, I am Ana 👋</h2>
+<h1 align="center"> Hi, I am Ana 👋</h1>
 
 
 ## 🌐 Socials:
@@ -18,3 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ana-matei&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
